@@ -84,6 +84,10 @@ HOTA metrics were computed with [TrackEval](https://github.com/JonathonLuiten/Tr
 
 Python · TensorFlow Lite · OpenCV · NumPy · pandas · scikit-learn · FilterPy · Matplotlib · Raspberry Pi
 
+## License
+
+[GPL-3.0](LICENSE) © Tom Kraus. The repository includes the GPL-3.0 licensed SORT tracker, so the whole project is released under GPL-3.0.
+
 ## Third-party code
 
 - `code/pipeline/sort.py`: [SORT](https://github.com/abewley/sort) by Alex Bewley, GPL-3.0
