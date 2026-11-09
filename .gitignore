@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+
+# External data / models (see README)
+code/MOT_data/
+tflite-models/
+*.tflite
+*.mp4
+Stadtwald_data_for_pipeline/*/video/
+Stadtwald_data_for_pipeline/*/img1/
+
+# Generated benchmark folders
+code/results_for_TrackEval/

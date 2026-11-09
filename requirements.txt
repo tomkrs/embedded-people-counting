@@ -1,0 +1,12 @@
+# Desktop / evaluation environment (thesis was developed with Python 3.10)
+tensorflow>=2.10
+opencv-python
+numpy
+pandas
+scipy
+scikit-learn
+scikit-image
+matplotlib
+seaborn
+filterpy   # Kalman filter used by SORT
+lap        # linear assignment used by SORT
